@@ -102,7 +102,7 @@ def train_func():
     }
 
     wandb.init(config=default_config)
-    ray.init()
+    ray.init(dashboard_host='0.0.0.0',dashboard_port=4200)
     tf.random.set_seed(0)
     np.random.seed(0)
     random.seed(0)

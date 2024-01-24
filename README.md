@@ -1,7 +1,7 @@
 A Reinforcement Learning Environment For Job-Shop Scheduling
 ==============================
 
-This folder contains the implementation of the paper "A Reinforcement Learning Environment For Job-Shop Scheduling".
+This folder contains the implementation of the paper "A Reinforcement Learning Environment For Job-Shop Scheduling". 2023
 
 It contains the deep reinforcement learning approach we have developed to solve the Job-Shop Scheduling problem.
 
